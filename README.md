@@ -1,2 +1,0 @@
-# Hotel
-for hotel bok
